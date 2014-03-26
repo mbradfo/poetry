@@ -1,0 +1,3 @@
+New file for pushing info to the teacher-poetry master.
+New line added fot the testing of git pull --rebase.
+Another test of push where rebase set up automatically for pulls.
